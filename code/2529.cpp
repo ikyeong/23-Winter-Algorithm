@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int N;
-char seq[9];
+char seq[10];
 
 /*
 최솟값 구하기
